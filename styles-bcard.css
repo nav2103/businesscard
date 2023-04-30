@@ -1,0 +1,19 @@
+body{
+    margin: 20px;
+}
+.avatar{
+    height:150px;
+}
+.bcard{
+    
+    width: 400px;
+    margin: 0 auto; 
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #ddebf8;
+    color: #2b2839;
+    border-bottom: 5px solid #d8cefe;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
